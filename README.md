@@ -1,4 +1,4 @@
-# Hi, I'm Jerry McIntosh 👋
+# Hi, I'm JD McIntosh 👋
 
 **Systems Programmer | x86_64 Assembly & Low-Level C Specialist**
 
@@ -45,4 +45,4 @@ Open to opportunities in **embedded systems**, **firmware**, **kernel developmen
 
 Feel free to star ⭐ or fork—thanks for visiting!
 
-— Jerry
+— JD
