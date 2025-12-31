@@ -1,6 +1,6 @@
-# Hi, I'm JD McIntosh 👋
+# Hi, I'm JD McIntosh
 
-**Systems Programmer | x86_64 Assembly & Low-Level C Specialist**
+**Systems Programmer | x86_64 Assembly & Low-Level C Specialist <img src="computer.svg" alt="Low-level computer" width="20"/> <img src="gear.svg" alt="Low-level gear" width="20"/> <img src="rocket.svg" alt="Low-level rocket" width="20"/>**
 
 Location: The South  
 Twitter/X: [@EdistoKato](https://x.com/EdistoKato)
