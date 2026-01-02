@@ -2,8 +2,7 @@
 
 **Systems Programmer | x86_64 Assembly & Low-Level C Specialist <img src="computer.svg" alt="Low-level computer" width="20"/> <img src="gear.svg" alt="Low-level gear" width="20"/> <img src="rocket.svg" alt="Low-level rocket" width="20"/>**
 
-Location: The South  
-Twitter/X: [@EdistoKato](https://x.com/EdistoKato)
+Location: The South
 
 I'm a low-level developer focused on **hand-written x86_64 assembly** and **performance-critical C** for Linux systems. My projects are useful for embedded, firmware, kernel, or optimization work.
 
