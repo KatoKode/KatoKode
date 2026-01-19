@@ -31,11 +31,15 @@ Bounds-checked byte buffer (84% assembly) with get/put for primitives (int16–6
 **High-Performance JSON Parser/Builder**  
 Lightweight, dependency-free JSON library with assembly optimizations for tokenization and parsing. Supports nested objects/arrays. 100% Valgrind-clean.
 
+[![List](https://img.shields.io/badge/List-Assembly-darkblue)](https://github.com/KatoKode/List)  
+**Dynamic Array/List in x86_64 Assembly**  
+High-performance growable list with insert/search/delete/sort, bidirectional iteration, and direct indexing—all hand-written in assembly. Clean C interface as a shared library. Valgrind-clean. Fast appends with amortized O(1) growth. 🚀
+
 [![x86_64 Tutorial](https://img.shields.io/badge/Tutorial-Assembly-orange)](https://github.com/KatoKode/x86_64_Assembly_Language_Tutorial)  
 **Practical x86_64 Assembly Tutorial**  
 Step-by-step guide building a real shared library (`libutil.so`) from assembly sources. Covers ABI, linking, and integration with C.
 
-Other repos: Stack, Queue, List all in assembly with C wrappers.
+Other repos: Stack, Queue all in assembly with C wrappers.
 
 ### Why Low-Level?
 I enjoy working close to the hardware. These projects showcase production-grade techniques: correctness proofs, benchmarks, memory safety, and real-world usability.
