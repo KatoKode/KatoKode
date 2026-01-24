@@ -19,6 +19,10 @@ I'm a low-level developer focused on **hand-written x86_64 assembly** and **perf
 **Single-Threaded B-Tree in x86_64 Assembly**  
 Fully functional B-Tree with insertion, deletion, search, and rebalancing—all in assembly. C interface as a shared library. Benchmarks: ~350k–590k ops/sec depending on order. Valgrind-clean.
 
+[![Kato DSA](https://img.shields.io/badge/Kato%20DSA-High%20Perf-green)](https://github.com/KatoKode/kato-dsa)  
+**High-performance B-Tree in x86_64 Assembly + Python wrapper for Linux**  
+Fully balanced B-Tree with custom callbacks, insert/search/delete, in-order traversal. Bundled native `.so` libraries for Linux x86_64. Valgrind-clean core. Installable via `pip`. Benchmarks coming soon.
+
 [![RBTree](https://img.shields.io/badge/RBTree-Assembly-yellow)](https://github.com/KatoKode/RBTree)  
 **Red-Black Tree in x86_64 Assembly**  
 Classic RB-Tree with rotations, coloring, and full operations implemented from scratch in assembly. Clean C API.
