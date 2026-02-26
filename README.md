@@ -19,7 +19,7 @@ I'm a low-level developer focused on **hand-written x86_64 assembly** and **perf
 **Single-Threaded B-Tree in x86_64 Assembly**
 Fully functional B-Tree with insertion, deletion, search, and rebalancing—all in assembly. C interface as a shared library. Benchmarks: ~350k–590k ops/sec depending on order. Valgrind-clean. 🚀
 
-[![BTree-Library](https://img.shields.io/badge/"BTree-Library"-Assembly-darkcyan)](https://github.com/KatoKode/BTree-Library)
+[![BTree Library](https://img.shields.io/badge/BTree%20Library-Assembly-darkcyan)](https://github.com/KatoKode/BTree-Library)
 **Single-Threaded B-Tree in x86_64 Assembly**
 Fully functional B-Tree with insertion, deletion, search, and rebalancing—all in assembly. C interface as a shared library. Benchmarks: ~2.2m-2.3m ops/sec depending on order. Valgrind-clean. 🚀
 
