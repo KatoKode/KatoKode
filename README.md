@@ -21,7 +21,7 @@ Fully functional B-Tree with insertion, deletion, search, and rebalancing—all 
 
 [![BTree Library](https://img.shields.io/badge/BTree%20Library-Assembly-darkcyan)](https://github.com/KatoKode/BTree-Library)
 **Single-Threaded B-Tree in x86_64 Assembly**
-Fully functional B-Tree with insertion, deletion, search, and rebalancing—all in assembly. C interface as a shared library. Benchmarks: ~2.2m-2.3m ops/sec depending on order. Valgrind-clean. 🚀
+Fully functional B-Tree with insertion, deletion, search, and rebalancing—all in assembly. C interface as a shared library. Benchmarks:🔥 4.11M deletes/sec🔥 2.19M inserts/sec 🔥 2.78M mixed insert/delete ops/sec 🔥 8.4M keys bulk load: 0.008s. Valgrind-clean. 🚀
 
 [![Kato DSA](https://img.shields.io/badge/Kato%20DSA-High%20Perf-green)](https://github.com/KatoKode/kato-dsa)
 **High-performance B-Tree in x86_64 Assembly + Python wrapper for Linux**
