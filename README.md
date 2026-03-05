@@ -32,7 +32,7 @@ Fully balanced B-Tree with custom callbacks, insert/search/delete, in-order trav
 Classic RB-Tree with rotations, coloring, and full operations implemented from scratch in assembly. Clean C API. 🚀
 
 [![ByteBuffer](https://img.shields.io/badge/ByteBuffer-Assembly-darkred)](https://github.com/KatoKode/ByteBuffer)
-**Fixed-Size ByteBuffer in x86_64 Assembly**
+**ByteBuffer in x86_64 Assembly**
 Bounds-checked byte buffer (84% assembly) with get/put for primitives (int16–64, float/double, varchar, bytes). Little-endian serialization, mark/reset/flip, shared library, and configurable C demo. 🚀
 
 [![JSON](https://img.shields.io/badge/JSON-Assembly%20%2B%20C-darkgreen)](https://github.com/KatoKode/JSON)
