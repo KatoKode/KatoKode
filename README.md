@@ -17,7 +17,7 @@ I'm a low-level developer focused on **hand-written x86_64 assembly** and **perf
 
 [![SRDB](https://img.shields.io/badge/SRDB-C++14-gold)](https://github.com/KatoKode/SQL-Relational-Database-System)
 **Lightweight Client-Server RDBMS in C++14**
-SQL engine with persistent B+Tree storage, recursive-descent parser, bytecode VM, multi-threaded TCP server, end-to-end encryption (libgcrypt), authentication, privileges, and ncurses client. Supports CREATE/ALTER/DROP, JOINs, subqueries, indexes, foreign keys, LOAD/SOURCE, and more. Valgrind-clean, secure systemd deployment. Educational powerhouse. 🔧
+SQL engine with persistent B+Tree storage, recursive-descent parser, bytecode VM, multi-threaded TCP server, end-to-end encryption (libgcrypt), authentication, privileges, and ncurses client. Supports CREATE/ALTER/DROP, JOINs, subqueries, indexes, foreign keys, LOAD/SOURCE, and more. Valgrind-clean, secure systemd deployment. 🔧
 
 [![BTree](https://img.shields.io/badge/BTree-Assembly-blue)](https://github.com/KatoKode/BTree)
 **Single-Threaded B-Tree in x86_64 Assembly**
