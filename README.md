@@ -53,8 +53,23 @@ Step-by-step guide building a real shared library (`libutil.so`) from assembly s
 
 Other repos: Stack, Queue all in assembly with C wrappers.
 
-### Why Low-Level?
-I enjoy working close to the hardware. These projects showcase production-grade techniques: correctness proofs, benchmarks, memory safety, and real-world usability.
+---
+
+### Why This Looks Scary (And Why That’s the Point)
+
+This library will **never** be production code.  
+Who in their right mind would volunteer to maintain raw x86-64 assembly mixed with C?  
+
+I like the freedom of knowing what the code is doing and being able to make it do exactly that.  
+I want to stay close to the metal — to understand the hardware, the OS, the calling conventions, the cache hierarchy, and the gritty details most modern developers never touch.
+
+This repo (and everything else under KatoKode) is my way of proving I still can.  
+It’s not about shipping a product. It’s about mastering the complexity, one line of assembly at a time.
+
+Old-school by choice.  
+If that scares you… good. That’s the point. 😏
+
+---
 
 Open to opportunities in **embedded systems**, **firmware**, **kernel development**, **high-performance computing**, or any role valuing assembly and systems expertise.
 
