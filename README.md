@@ -51,7 +51,11 @@ High-performance growable list with insert/search/delete/sort, bidirectional ite
 **Practical x86_64 Assembly Tutorial**
 Step-by-step guide building a real shared library (`libutil.so`) from assembly sources. Covers ABI, linking, and integration with C. 🚀
 
-Other repos: Stack, Queue all in assembly with C wrappers.
+[![Queue](https://img.shields.io/badge/Queue-Assembly-darkblue)](https://github.com/KatoKode/Queue)
+**Queue in x86_64 Assembly**
+This is an Assembly Language implementation of a Queue (FIFO). The Queue is implemented as a shared-library with a C interface. 🚀
+
+One other repo: Stack in x86_64 Assembly with C wrapper.
 
 ---
 
