@@ -4,7 +4,7 @@
 
 Location: The South
 
-I'm a low-level developer focused on **hand-written x86_64 assembly** and **performance-critical C** for Linux systems. My projects are useful for embedded, firmware, kernel, or optimization work.
+I'm a low-level developer focused on **x86_64 assembly** and **performance-critical C** for Linux systems. My projects are useful for embedded, firmware, kernel, or optimization work.
 
 ### Skills & Expertise
 - **x86_64 Assembly Language** (NASM): Deep knowledge of the System V AMD64 ABI, registers, calling conventions, stack management, and optimization techniques.
