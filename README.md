@@ -59,7 +59,7 @@ One other repo: Stack in x86_64 Assembly with C wrapper.
 
 ---
 
-Open to opportunities in **embedded systems**, **firmware**, **kernel development**, **high-performance computing**, or any role valuing assembly and systems expertise.
+Open to opportunities in **kernel development**, **high-performance computing**, or any role valuing assembly and systems expertise.
 
 Feel free to star ⭐ or fork—thanks for visiting!
 
