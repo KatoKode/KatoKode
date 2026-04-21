@@ -19,15 +19,15 @@ I'm a low-level developer focused on **x86_64 assembly** and **performance-criti
 **Lightweight Client-Server RDBMS in C++14**
 SQL engine with persistent B+Tree storage, recursive-descent parser, bytecode VM, multi-threaded TCP server, end-to-end encryption (libgcrypt), authentication, privileges, and ncurses client. Supports CREATE/ALTER/DROP, JOINs, subqueries, indexes, foreign keys, LOAD/SOURCE, and more. Valgrind-clean, secure systemd deployment. 🔧
 
-[![BTree](https://img.shields.io/badge/BTree-Assembly-blue)](https://github.com/KatoKode/BTree)
+[![BTree](https://img.shields.io/badge/BTree-Assembly-darkcyan)](https://github.com/KatoKode/BTree)
 **Single-Threaded B-Tree in x86_64 Assembly**
 Fully functional B-Tree with insertion, deletion, search, and rebalancing—all in assembly. C interface as a shared library. Benchmarks: ~350k–590k ops/sec depending on order. Valgrind-clean. 🚀
 
-[![BTree Library](https://img.shields.io/badge/BTree%20Library-Assembly-darkcyan)](https://github.com/KatoKode/BTree-Library)
+[![BTree Library](https://img.shields.io/badge/BTree%20Library-Assembly-gold)](https://github.com/KatoKode/BTree-Library)
 **Single-Threaded B-Tree in x86_64 Assembly**
 Fully functional B-Tree with insertion, deletion, search, and rebalancing—all in assembly. C interface as a shared library. Benchmarks:🔥 4.11M deletes/sec🔥 2.19M inserts/sec 🔥 2.78M mixed insert/delete ops/sec 🔥 8.4M keys bulk load: 0.008s. Valgrind-clean. 🚀
 
-[![Kato DSA](https://img.shields.io/badge/Kato%20DSA-High%20Perf-green)](https://github.com/KatoKode/kato-dsa)
+[![Kato DSA](https://img.shields.io/badge/Kato%20DSA-High%20Perf-darkcyan)](https://github.com/KatoKode/kato-dsa)
 **High-performance B-Tree in x86_64 Assembly + Python wrapper for Linux**
 Fully balanced B-Tree with custom callbacks, insert/search/delete, in-order traversal. Bundled native `.so` libraries for Linux x86_64. Valgrind-clean core. Installable via `pip`. Benchmarks coming soon. 🚀
 
