@@ -56,11 +56,12 @@ Step-by-step guide building a real shared library (`libutil.so`) from assembly s
 This is an Assembly Language implementation of a Queue (FIFO). The Queue is implemented as a shared-library with a C interface. 🚀
 
 [![IO](https://img.shields.io/badge/IO-Assembly-gold)](https://github.com/KatoKode/IO)
-**File operations written in x86_64 Assembly with a C interface as a Shared-Library. Designed for performance-critical applications that need direct I/O (O_DIRECT), synchronized writes (O_DSYNC).**
+**File operations written in x86_64 Assembly with a C interface as a Shared-Library.**
+Designed for performance-critical applications that need direct I/O (O_DIRECT), synchronized writes (O_DSYNC). 🚀
 
 [![Queue](https://img.shields.io/badge/Stack-Assembly-darkcyan)](https://github.com/KatoKode/Stack)
 **Stack in x86_64 Assembly**
-Stack (LIFO) Implementation in x86_64 Assembly Language with C Interface as a Shared Library.
+Stack (LIFO) Implementation in x86_64 Assembly Language with C Interface as a Shared Library. 🚀
 
 ---
 
