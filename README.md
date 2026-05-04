@@ -16,51 +16,62 @@ I'm a low-level developer focused on **x86_64 assembly** and **performance-criti
 ### Highlighted Projects
 
 [![SRDB](https://img.shields.io/badge/SRDB-C++14-gold)](https://github.com/KatoKode/SQL-Relational-Database-System)
-**Lightweight Client-Server RDBMS in C++14**
-SQL engine with persistent B+Tree storage, persistent JSON schema, recursive-descent parser, bytecode VM, multi-threaded TCP server, encryption (libgcrypt), authentication, privileges, and ncurses client. Supports CREATE/ALTER/DROP, JOINs, indexes, foreign keys, LOAD/SOURCE, and more. Valgrind-clean, secure systemd deployment. 🔧
+**Lightweight Client-Server RDBMS in C++14 (Linux)** 🚀
+
+---
 
 [![BTree](https://img.shields.io/badge/BTree-Assembly-darkcyan)](https://github.com/KatoKode/BTree)
-**High-Perfomrance Classic B-Tree:**
-Fully functional B-Tree with insertion, deletion, search, and rebalancing, implemented in x86_64 Assembly with a C interface as a shared library. 🚀
+**High-Perfomrance Classic B-Tree (Linux)** 🚀
+
+---
 
 [![BTree Library](https://img.shields.io/badge/BTree%20Library-Assembly-gold)](https://github.com/KatoKode/BTree-Library)
-**Optimized High-Performance Classic B-Tree Library**
-Fully functional B-Tree with insertion, deletion, search, and rebalancing, bulk load, range scan, implemented in x86_64 Assembly with a C interface as a shared library. Benchmarks:🔥 4.11M deletes/sec🔥 2.19M inserts/sec 🔥 2.78M mixed insert/delete ops/sec 🔥 8.4M keys bulk load: 0.008s. Valgrind-clean. 🚀
+**Optimized High-Performance Classic B-Tree Library (Linux)** 🚀
+
+---
 
 [![Kato DSA](https://img.shields.io/badge/Kato%20DSA-High%20Perf-darkcyan)](https://github.com/KatoKode/kato-dsa)
-**High-performance B-Tree Library wrapped in Python ctypes (Linux only):**
-Fully functional B-Tree with insertion, deletion, search, and rebalancing, implemented in x86_64 Assembly with a C interface as a shared library. Bundled library for Linux x86_64. Valgrind-clean core. Installable via `pip. 🚀
+**High-performance B-Tree Library wrapped in Python ctypes (Linux)** 🚀
+
+---
 
 [![RBTree](https://img.shields.io/badge/RBTree-Assembly-gold)](https://github.com/KatoKode/RBTree)
-**High-Performance Red-Black Tree in x86_64 Assembly** 🚀
+**High-Performance Red-Black Tree Implementation in x86_64 Assembly with a C interface as a Shared Library (Linux)** 🚀
+
+---
 
 [![ByteBuffer](https://img.shields.io/badge/ByteBuffer-Assembly-darkcyan)](https://github.com/KatoKode/ByteBuffer)
-**ByteBuffer:**
-Includes get/put primitives (signed/unsigned integer 16/32/64, float/double, varchar, bytes). Little-endian serialization, mark/reset/flip, with a C iterface as a shared library. 🚀
+**ByteBuffer Implementation in x86_64 Assembly with a C interface as a Shared Library (Linux)** 🚀
+
+---
 
 [![JSON](https://img.shields.io/badge/JSON-Assembly%20%2B%20C-gold)](https://github.com/KatoKode/JSON)
-**High-Performance JSON Builder/Writer/Scanner/Parser:**
-A Lightweight, dependency-free JSON library with assembly support libraries. Supports nested objects/arrays. 🚀
+**High-Performance JSON Builder/Writer/Scanner/Parser Implementation in C with x86_64 Assembly support libraries as a Shared Library (Linux)** 🚀
+
+---
 
 [![List](https://img.shields.io/badge/List-Assembly-darkcyan)](https://github.com/KatoKode/List)
-**List (Dynamic Array):**
-High-performance list with insert/search/delete/sort, bidirectional iteration, and direct indexing—all in Assembly with a C interface as a shared library. 🚀
+**Dynamic List Implementation in x86_64 Assembly with a C Interface as a Shared Library (Linux)** 🚀
+
+---
 
 [![x86_64 Tutorial](https://img.shields.io/badge/Tutorial-Assembly-gold)](https://github.com/KatoKode/x86_64_Assembly_Language_Tutorial)
-**Practical x86_64 Assembly Tutorial:**
-Build a shared library using Assembly and C. 🚀
+**Practical x86_64 Assembly Tutorial (Linux)** 🚀
+
+---
 
 [![Queue](https://img.shields.io/badge/Queue-Assembly-darkcyan)](https://github.com/KatoKode/Queue)
-**Queue:**
- A Queue (FIFO) implementation in x86_64 Assembly as a shared-library with a C interface. 🚀
+**Queue Implementation in x86_64 Assembly as a Shared Library with a C Interface (Linux)** 🚀
+
+---
 
 [![IO](https://img.shields.io/badge/IO-Assembly-gold)](https://github.com/KatoKode/IO)
-**File I/O Operations:**
-Implemented in x86_64 Assembly with a C interface as a shared library.  Designed for performance-critical applications that need direct I/O (O_DIRECT), synchronized writes (O_DSYNC). 🚀
+**File I/O Operations Implementation in x86_64 Assembly as a Shared Library with a C Interface (Linux)** 🚀
 
-[![Queue](https://img.shields.io/badge/Stack-Assembly-darkcyan)](https://github.com/KatoKode/Stack)
-**Stack:**
-Stack (LIFO) Implementation in x86_64 Assembly Language with C Interface as a Shared Library. 🚀
+---
+
+[![Stack](https://img.shields.io/badge/Stack-Assembly-darkcyan)](https://github.com/KatoKode/Stack)
+**Stack (LIFO) Implementation in x86_64 Assembly Language with C Interface as a Shared Library (Linux)** 🚀
 
 ---
 
