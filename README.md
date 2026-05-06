@@ -22,7 +22,7 @@ I'm a low-level developer focused on **x86_64 assembly** and **performance-criti
 + SQL Data Definition Language (DDL), SQL Data Manipulation Language (DML), SQL Joins (INNER, LEFT, RIGHT)
 + Encrypted Authentication, System Privileges (global server actions), Object Privileges (access to specific database structures)
 + LOAD INFILE (high speed loading of CSV data), SOURCE (execute SQL script files)
-+ Dependencies: LIBC, libgcrypt, json-glib, ncurses readline
++ Dependencies: libc, ncurses readline, glib-2.0, json-glib-1.0, libgcrypt-1.6.1 or later
 
 ---
 
@@ -30,6 +30,7 @@ I'm a low-level developer focused on **x86_64 assembly** and **performance-criti
 **High-Perfomrance Classic B-Tree (Linux)** 🚀
 + x86_64 Assembly (NASM), C, Bash, Make
 + CLRS Faithful Implementation
++ Dependencies: libc
 
 ---
 
@@ -38,12 +39,14 @@ I'm a low-level developer focused on **x86_64 assembly** and **performance-criti
 + x86_64 Assembly (NASM), C, Bash, Make
 + SIMD Detector, Advanced Move Operations (AVX2 -> SSE2 -> Scalar), Bulk Move Operations
 + CLRS Faithful Implementation
++ Dependencies: libc
 
 ---
 
 [![Kato DSA](https://img.shields.io/badge/Kato%20DSA-High%20Perf-darkcyan)](https://github.com/KatoKode/kato-dsa)
 **High-performance B-Tree Library wrapped in Python ctypes (Linux)** 🚀
 + See: High-Perfomrance Classic B-Tree (Linux)
++ Dependencies: libc
 
 ---
 
@@ -51,36 +54,42 @@ I'm a low-level developer focused on **x86_64 assembly** and **performance-criti
 **High-Performance Red-Black-Tree Implementation in x86_64 Assembly with a C interface as a Shared Library (Linux)** 🚀
 + x86_64 Assembly (NASM), C, Bash, Make
 + CLRS Faithful Implementation
++ Dependencies: libc
 
 ---
 
 [![ByteBuffer](https://img.shields.io/badge/ByteBuffer-Assembly-darkcyan)](https://github.com/KatoKode/ByteBuffer)
 **ByteBuffer Implementation in x86_64 Assembly with a C interface as a Shared Library (Linux)** 🚀
 + x86_64 Assembly (NASM), C, Bash, Make
++ Dependencies: libc
 
 ---
 
 [![JSON](https://img.shields.io/badge/JSON-Assembly%20%2B%20C-gold)](https://github.com/KatoKode/JSON)
 **High-Performance JSON Builder/Writer/Scanner/Parser Implementation in C with x86_64 Assembly support library as a Shared Library (Linux)** 🚀
 + x86_64 Assembly (NASM), C, Bash, Make
++ Dependencies: libc
 
 ---
 
 [![List](https://img.shields.io/badge/List-Assembly-darkcyan)](https://github.com/KatoKode/List)
 **Dynamic List Implementation in x86_64 Assembly with a C Interface as a Shared Library (Linux)** 🚀
 + x86_64 Assembly (NASM), C, Bash, Make
++ Dependencies: libc
 
 ---
 
 [![x86_64 Tutorial](https://img.shields.io/badge/Tutorial-Assembly-gold)](https://github.com/KatoKode/x86_64_Assembly_Language_Tutorial)
 **Practical x86_64 Assembly Tutorial (Linux)** 🚀
 + x86_64 Assembly (NASM), C, Bash, Make
++ Dependencies: libc
 
 ---
 
 [![Queue](https://img.shields.io/badge/Queue-Assembly-darkcyan)](https://github.com/KatoKode/Queue)
 **Queue Implementation in x86_64 Assembly as a Shared Library with a C Interface (Linux)** 🚀
 + x86_64 Assembly (NASM), C, Bash, Make
++ Dependencies: libc
 
 ---
 
@@ -88,12 +97,14 @@ I'm a low-level developer focused on **x86_64 assembly** and **performance-criti
 **File I/O Operations Implementation in x86_64 Assembly as a Shared Library with a C Interface (Linux)** 🚀
 + x86_64 Assembly (NASM), C, Bash, Make
 + SysCalls, Create/Open/Read/Write/Sync operations
++ Dependencies: libc
 
 ---
 
 [![Stack](https://img.shields.io/badge/Stack-Assembly-darkcyan)](https://github.com/KatoKode/Stack)
 **Stack (LIFO) Implementation in x86_64 Assembly Language with C Interface as a Shared Library (Linux)** 🚀
 + x86_64 Assembly (NASM), C, Bash, Make
++ Dependencies: libc
 
 ---
 
