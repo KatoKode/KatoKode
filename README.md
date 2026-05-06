@@ -16,62 +16,83 @@ I'm a low-level developer focused on **x86_64 assembly** and **performance-criti
 ### Highlighted Projects
 
 [![SRDB](https://img.shields.io/badge/SRDB-C++14-gold)](https://github.com/KatoKode/SQL-Relational-Database-System)
-**Lightweight Client-Server RDBMS in C++14 (Linux)** 🚀
+**Lightweight Client-Server RDBMS in C/C++14 (Linux)** 🚀
++ Bash, C, C++14, Make, AutoTools, Linux Service Setup, Sockets, MultiThreading, Synchronization, NCurses
++ Persistent B+Tree Storage Engine, Persistent JSON Schema, SQL Recursive-Descent Lexer/Parser/Compiler, Byte-Code Virtual Machine
++ SQL Data Definition Language (DDL), SQL Data Manipulation Language (DML), SQL Joins (INNER, LEFT, RIGHT)
++ Encrypted Authentication, System Privileges (global server actions), Object Privileges (access to specific database structures)
++ LOAD INFILE (high speed loading of CSV data), SOURCE (execute SQL script files)
 
 ---
 
 [![BTree](https://img.shields.io/badge/BTree-Assembly-darkcyan)](https://github.com/KatoKode/BTree)
 **High-Perfomrance Classic B-Tree (Linux)** 🚀
++ x86_64 Assembly (NASM), C, Bash, Make
++ CLRS Faithful Implementation
 
 ---
 
 [![BTree Library](https://img.shields.io/badge/BTree%20Library-Assembly-gold)](https://github.com/KatoKode/BTree-Library)
 **Optimized High-Performance Classic B-Tree Library (Linux)** 🚀
++ x86_64 Assembly (NASM), C, Bash, Make
++ SIMD Detector, Advanced Move Operations (AVX2 -> SSE2 -> Scalar), Bulk Move Operations
++ CLRS Faithful Implementation
 
 ---
 
 [![Kato DSA](https://img.shields.io/badge/Kato%20DSA-High%20Perf-darkcyan)](https://github.com/KatoKode/kato-dsa)
 **High-performance B-Tree Library wrapped in Python ctypes (Linux)** 🚀
++ See: High-Perfomrance Classic B-Tree (Linux)
 
 ---
 
 [![RBTree](https://img.shields.io/badge/RBTree-Assembly-gold)](https://github.com/KatoKode/RBTree)
-**High-Performance Red-Black Tree Implementation in x86_64 Assembly with a C interface as a Shared Library (Linux)** 🚀
+**High-Performance Red-Black-Tree Implementation in x86_64 Assembly with a C interface as a Shared Library (Linux)** 🚀
++ x86_64 Assembly (NASM), C, Bash, Make
++ CLRS Faithful Implementation
 
 ---
 
 [![ByteBuffer](https://img.shields.io/badge/ByteBuffer-Assembly-darkcyan)](https://github.com/KatoKode/ByteBuffer)
 **ByteBuffer Implementation in x86_64 Assembly with a C interface as a Shared Library (Linux)** 🚀
++ x86_64 Assembly (NASM), C, Bash, Make
 
 ---
 
 [![JSON](https://img.shields.io/badge/JSON-Assembly%20%2B%20C-gold)](https://github.com/KatoKode/JSON)
-**High-Performance JSON Builder/Writer/Scanner/Parser Implementation in C with x86_64 Assembly support libraries as a Shared Library (Linux)** 🚀
+**High-Performance JSON Builder/Writer/Scanner/Parser Implementation in C with x86_64 Assembly support library as a Shared Library (Linux)** 🚀
++ x86_64 Assembly (NASM), C, Bash, Make
 
 ---
 
 [![List](https://img.shields.io/badge/List-Assembly-darkcyan)](https://github.com/KatoKode/List)
 **Dynamic List Implementation in x86_64 Assembly with a C Interface as a Shared Library (Linux)** 🚀
++ x86_64 Assembly (NASM), C, Bash, Make
 
 ---
 
 [![x86_64 Tutorial](https://img.shields.io/badge/Tutorial-Assembly-gold)](https://github.com/KatoKode/x86_64_Assembly_Language_Tutorial)
 **Practical x86_64 Assembly Tutorial (Linux)** 🚀
++ x86_64 Assembly (NASM), C, Bash, Make
 
 ---
 
 [![Queue](https://img.shields.io/badge/Queue-Assembly-darkcyan)](https://github.com/KatoKode/Queue)
 **Queue Implementation in x86_64 Assembly as a Shared Library with a C Interface (Linux)** 🚀
++ x86_64 Assembly (NASM), C, Bash, Make
 
 ---
 
 [![IO](https://img.shields.io/badge/IO-Assembly-gold)](https://github.com/KatoKode/IO)
 **File I/O Operations Implementation in x86_64 Assembly as a Shared Library with a C Interface (Linux)** 🚀
++ x86_64 Assembly (NASM), C, Bash, Make
++ SysCalls, Create/Open/Read/Write/Sync operations
 
 ---
 
 [![Stack](https://img.shields.io/badge/Stack-Assembly-darkcyan)](https://github.com/KatoKode/Stack)
 **Stack (LIFO) Implementation in x86_64 Assembly Language with C Interface as a Shared Library (Linux)** 🚀
++ x86_64 Assembly (NASM), C, Bash, Make
 
 ---
 
