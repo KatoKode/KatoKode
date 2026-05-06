@@ -22,6 +22,7 @@ I'm a low-level developer focused on **x86_64 assembly** and **performance-criti
 + SQL Data Definition Language (DDL), SQL Data Manipulation Language (DML), SQL Joins (INNER, LEFT, RIGHT)
 + Encrypted Authentication, System Privileges (global server actions), Object Privileges (access to specific database structures)
 + LOAD INFILE (high speed loading of CSV data), SOURCE (execute SQL script files)
++ Dependencies: LIBC, libgcrypt, json-glib, ncurses readline
 
 ---
 
