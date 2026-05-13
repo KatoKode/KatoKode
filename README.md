@@ -86,13 +86,6 @@ I'm a low-level developer focused on **x86_64 assembly** and **performance-criti
 
 ---
 
-[![x86_64 Tutorial](https://img.shields.io/badge/Tutorial-Assembly-gold)](https://github.com/KatoKode/x86_64_Assembly_Language_Tutorial)
-**Practical x86_64 Assembly Tutorial (Linux)** 🚀
-+ x86_64 Assembly (NASM), C, Bash, Make
-+ Dependencies: libc
-
----
-
 [![Queue](https://img.shields.io/badge/Queue-Assembly-darkcyan)](https://github.com/KatoKode/Queue)
 **Queue Implementation in x86_64 Assembly as a Shared Library with a C Interface (Linux)** 🚀
 + x86_64 Assembly (NASM), C, Bash, Make
