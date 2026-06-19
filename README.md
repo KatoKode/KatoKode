@@ -26,13 +26,6 @@ I'm a low-level developer focused on **x86_64 assembly** and **performance-criti
 
 ---
 
-[![x86_64 Tutorial](https://img.shields.io/badge/Tutorial-Assembly-gold)](https://github.com/KatoKode/x86_64_Assembly_Language_Tutorial)
-**Practical x86_64 Assembly Tutorial (Linux)** 🚀
-+ x86_64 Assembly (NASM), C, Bash, Make
-+ Dependencies: libc
-
----
-
 [![BTree](https://img.shields.io/badge/BTree-Assembly-darkcyan)](https://github.com/KatoKode/BTree)
 **High-Perfomrance Classic B-Tree (Linux)** 🚀
 + x86_64 Assembly (NASM), C, Bash, Make
@@ -81,6 +74,13 @@ I'm a low-level developer focused on **x86_64 assembly** and **performance-criti
 
 [![List](https://img.shields.io/badge/List-Assembly-darkcyan)](https://github.com/KatoKode/List)
 **Dynamic List Implementation in x86_64 Assembly with a C Interface as a Shared Library (Linux)** 🚀
++ x86_64 Assembly (NASM), C, Bash, Make
++ Dependencies: libc
+
+---
+
+[![x86_64 Tutorial](https://img.shields.io/badge/Tutorial-Assembly-gold)](https://github.com/KatoKode/x86_64_Assembly_Language_Tutorial)
+**Practical x86_64 Assembly Tutorial (Linux)** 🚀
 + x86_64 Assembly (NASM), C, Bash, Make
 + Dependencies: libc
 
