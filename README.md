@@ -26,6 +26,12 @@ I'm a low-level developer focused on **x86_64 assembly** and **performance-criti
 
 ---
 
+$$
+\huge \color{gold} \text{** Watch for GNU Assembly versions of the DSA implementations **}
+$$
+
+---
+
 [![BTree](https://img.shields.io/badge/BTree-Assembly-darkcyan)](https://github.com/KatoKode/BTree)
 **High-Perfomrance Classic B-Tree (Linux)** 🚀
 + x86_64 Assembly (NASM), C, Bash, Make
